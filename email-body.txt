@@ -1,0 +1,9 @@
+Hello,
+
+I attached you the OpenVPN settings and a PDF describing the setup.
+
+You will receive another email with the username and password of the vpn connection.
+
+Please use vpn@domain.io for further communication.
+
+-- 
